@@ -1,0 +1,12 @@
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernateTest.exe.config
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernateTest.exe
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernateTest.pdb
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\Iesi.Collections.dll
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.dll
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\Iesi.Collections.xml
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\NHibernate.xml
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.csprojResolveAssemblyReference.cache
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.exe
+c:\users\nicola.logrillo\documents\visual studio 2015\Projects\NHibernateTest\NHibernateTest\obj\Debug\NHibernateTest.pdb
+C:\Users\nicola.logrillo\Documents\Visual Studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\nicola.logrillo\Documents\Visual Studio 2015\Projects\NHibernateTest\NHibernateTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
